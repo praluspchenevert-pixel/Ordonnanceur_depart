@@ -256,7 +256,7 @@ run_clicked = st.sidebar.button("Lancer la simulation", type="primary")
 # ------------------------------------------------------------
 # EXECUTION DU MODELE
 # ------------------------------------------------------------
-st.title("Ordonnanceur — modele porc charcutier ça te plait mathieu ?")
+st.title("Ordonnanceur — modele porc charcutier ça te plait mat ?")
 
 if run_clicked:
     if weights is None or len(weights) < 2:
