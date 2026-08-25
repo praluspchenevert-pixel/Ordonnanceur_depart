@@ -1,0 +1,12 @@
+# Environnements virtuels et artefacts PyInstaller (ne pas versionner)
+venv/
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Journal de construction
+build_log.txt
+
+# Fichiers Streamlit locaux
+.streamlit/
